@@ -102,6 +102,7 @@ a {
 
 a:hover {
     opacity: .8;
+    font-style: italic;    
 }
 
 a:active {
