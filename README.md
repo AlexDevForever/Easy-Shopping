@@ -10,5 +10,8 @@
 <img src="https://github.com/AlexDevForever/Projetos-Responsivos/blob/main/img/Congratulation-Desktop.png" alt="Projeto-Congrattulations" />
 <h3>Este Site também é responsivo! 😎 :iphone:</h3>
 <br>
-<img src="https://github.com/AlexDevForever/Easy-Shopping/blob/main/img/Cell.png" />
 
+<img src="https://github.com/AlexDevForever/Easy-Shopping/blob/main/img/Cell.png" />
+<img src="https://github.com/AlexDevForever/Projetos-Responsivos/blob/main/img/We%20Care-Cell.png" alt="Projeto-We Care" />
+<br>
+<img src="" alt="Projeto-Congratulatitons" />
