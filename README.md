@@ -5,7 +5,8 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"widht:300px  />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" width::300px;/>
 <h3>Projetos para Desktop 💻</h3>
-<img src="https://github.com/AlexDevForever/Easy-Shopping/blob/main/img/Desk.png" />
+<img src="https://github.com/AlexDevForever/Easy-Shopping/blob/main/img/Desk.png" alt="Projeto Easy-Shopping"/>
+<img src=="https://github.com/AlexDevForever/Projetos-Responsivos/blob/main/img/We%20Care-Desktop.png" alt="Projeto We-care" />
 <h3>Este Site também é responsivo! 😎 :iphone:</h3>
 <br>
 <img src="https://github.com/AlexDevForever/Easy-Shopping/blob/main/img/Cell.png" />
