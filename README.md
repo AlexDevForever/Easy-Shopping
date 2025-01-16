@@ -1,4 +1,4 @@
-<h1 align="center"> Easy-Shoppting</h1>
+<h1 align="center"> Projetos Responsivos</h1>
 <br><br>
 <h2>Esses projetos eu desenvolvi no aprendizado com <a href="http://rodolfomori.com.br/devclub">DevClub</a></h2>
 <h3>Tecnonlogias usadas:</h3>
