@@ -7,6 +7,7 @@
 <h3>Projetos para Desktop 💻</h3>
 <img src="https://github.com/AlexDevForever/Easy-Shopping/blob/main/img/Desk.png" alt="Projeto Easy-Shopping"/>
 <img src="https://github.com/AlexDevForever/Projetos-Responsivos/blob/main/img/We%20Care-Desktop.png" alt="Projeto We-care" />
+<img src="https://github.com/AlexDevForever/Projetos-Responsivos/blob/main/img/Congratulation-Desktop.png" alt="Projeto-Congrattulations" />
 <h3>Este Site também é responsivo! 😎 :iphone:</h3>
 <br>
 <img src="https://github.com/AlexDevForever/Easy-Shopping/blob/main/img/Cell.png" />
